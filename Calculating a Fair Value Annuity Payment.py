@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
 
 
 ### Calculating a Fair Value Annuity Payment ###
@@ -99,11 +95,5 @@ for i in range(1, annuity_term + 1, 12):
 print(f'For a total of {round(total_annuity,2)}')
 
     
-    
-
-
-# In[ ]:
-
-
-
+ 
 
